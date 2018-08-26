@@ -9,6 +9,7 @@ A Repository full of C-Programs. :slightly_smiling_face:
 * **[Rohit Motwani](https://twitter.com/rohittm)** - Adding some basic + intermediate + advance C-Programs, etc.
 * **[Raunak Hajela](https://twitter.com/raunakhajela)** - Adding some basic + intermediate + advance C-Programs, etc.
 * **[Tushar Mittal](https://techytushar.github.io)** - Adding some basic + intermediate + advance C-Programs, etc.
+* **[Shubham Gaur](http://sumitsg10.github.io)** - Adding some basic + intermediate, etc.
 
 ## How to Collaborate?
 Collaborating on this Repository is really easy, you just have to push the code, but make sure you :
