@@ -1,17 +1,18 @@
-#include < stdio.h >
+#include <stdio.h>
 
-  void quick_sort(int[], int, int);
+//function declaration
+void quick_sort(int[], int, int);
 int partition(int[], int, int);
 
 int main() {
-  int a[50], n, i;
+  int n, i;
   printf("How many elements?");
   scanf("%d", & n);
+  int a[n];
   printf("\nEnter array elements:");
-
   for (i = 0; i < n; i++)
     scanf("%d", & a[i]);
-
+  //calling the quick sort function
   quick_sort(a, 0, n - 1);
   printf("\nArray after sorting:");
 
