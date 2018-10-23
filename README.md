@@ -19,6 +19,13 @@ Collaborating on this Repository is really easy, you just have to push the code,
 * Give some meaningful variable & function names.
 * Your filename should be easy to recognize. (For example, if you've made a program to print the sum of 2 integers, then the filename can be sum.c or something like that.)
 
+### Thanks everyone who contributed to this repository by making a Pull request for the issues.
+* **[Piyush Mehta](https://github.com/piyush97)**
+* **[Anil Khatri](https://github.com/imkaka)**
+* **[Austin Benavidez](https://github.com/stnbnvdz)**
+* **[Ben Stewart](https://github.com/sbenstewart)**
+* **[Anirudh Bhat](https://github.com/anirudh1200)**
+
 ## License
 This is free and unencumbered software released into the public domain.
 
