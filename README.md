@@ -1,6 +1,8 @@
 # C-Programs
 A Repository full of C-Programs. :slightly_smiling_face:
 
+![C-Programs](https://i.imgur.com/Wgm5mxY.jpg)
+
 ## Collaborators
 * **[Harsh Trivedi](https://harsh98trivedi.github.io)** - Managing the Repository, Adding some basic + intermediate C-Programs, etc.
 * **[Kratinjay Gupta](https://www.facebook.com/kratinjay)** - Adding some basic + intermediate C-Programs, etc.
