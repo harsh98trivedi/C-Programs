@@ -8,10 +8,10 @@ void main() // main function that returns a null value when printing the remaind
 	scanf("%d",&num); // scan the value that is input by the user
 	if(num%2==0) // applying condition to check if the remainder comes 0 after dividing the number by 2
 	{ // opening conditional brace
-		printf("Number is even."); // print command to tell that the number is even
+		printf("Number %d is even.", num); // print command to tell that the number is even
 	} // closing conditional brace
 	else // else condition
 	{ // opening conditional brace
-		printf("Number is odd."); // print command to tell that the number is odd
+		printf("Number %d is odd.", num); // print command to tell that the number is odd
 	} // closing conditional brace
 } // closing block of the main function
