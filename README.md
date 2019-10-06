@@ -15,7 +15,7 @@ A Repository full of C-Programs. :slightly_smiling_face:
 * **[Mohit Singh](https://www.facebook.com/OfficialMohitSingh)** - Adding some basic + intermediate C-Programs, etc.
 * **[Vivek Kumar Kanaujia](https://twitter.com/vivdroid)** - Adding some basic + intermediate + advance C-Programs, etc.
 * **[Sneha Omer](https://github.com/sassyec0der)** - Adding some basic C-Programs, etc.
-* **[Rohan Das](https://rohandas28.github.io)** - Adding some basic C-Programs, etc.
+* **[Rohan Das](https://rohandas28.github.io)** - Adding some basic + intermediate C-Programs, etc.
 
 ## How to Collaborate?
 Collaborating on this Repository is really easy, you just have to push the code, but make sure you :
