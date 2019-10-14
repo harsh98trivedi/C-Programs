@@ -1,4 +1,4 @@
-// a program to print Hello World on the monitor
+// A program to print Hello World on the monitor
 #include<stdio.h> // standard input output header file
 #include<conio.h> //standard console input output header file
 void main() // main function that returns a null value
