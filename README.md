@@ -9,7 +9,7 @@ A Repository full of C-Programs. :slightly_smiling_face:
 * **[Wishal Kumar](https://www.facebook.com/wishalkumar)** - Adding some basic + intermediate C-Programs, etc.
 * **[Hitanshu Sahu](https://phantom-cluster.github.io)** - Adding some basic + intermediate C-Programs, etc.
 * **[Rohit Motwani](https://twitter.com/rohittm)** - Adding some basic + intermediate + advance C-Programs, etc.
-* **[Raunak Hajela](https://twitter.com/raunakhajela)** - Adding some basic + intermediate + advance C-Programs, etc.
+* **[Raunak Hajela](https://facebook.com/raunakhajela)** - Adding some basic + intermediate + advance C-Programs, etc.
 * **[Tushar Mittal](https://techytushar.github.io)** - Adding some basic + intermediate + advance C-Programs, etc.
 * **[Shubham Gaur](http://sumitsg10.github.io)** - Adding some basic + intermediate C-Programs, etc.
 * **[Mohit Singh](https://www.facebook.com/OfficialMohitSingh)** - Adding some basic + intermediate C-Programs, etc.
