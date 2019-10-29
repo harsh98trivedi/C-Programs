@@ -23,12 +23,7 @@ int main(){
     return 0;
 }
 
-int binarySearch(int array[], int left, int right, int data){
-    int position;
-    int mid = (left+right)/2;
-    if(left > right){
-        //if element is not found returns -1
-        return -1;
+          middle = (first + last)/2;
     }
     //if element is less than mid, then right = mid-1
     if(data < array[mid])
