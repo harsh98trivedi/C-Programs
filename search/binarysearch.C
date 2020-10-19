@@ -1,41 +1,37 @@
+//Program to implement Binary Search Algorithm
 
-    #include <stdio.h>
-     
-    int main()
-    {
-       int c, first, last, middle, n, search, array[100];
-     
-       printf("Enter number of elements\n");
-       scanf("%d",&n);
-     
-       printf("Enter %d integers\n", n);
-     
-       for (c = 0; c < n; c++)
-          scanf("%d",&array[c]);
-     
-       printf("Enter value to find\n");
-       scanf("%d", &search);
-     
-       first = 0;
-       last = n - 1;
-       middle = (first+last)/2;
-     
-       while (first <= last) {
-          if (array[middle] < search)
-             first = middle + 1;    
-          else if (array[middle] == search) {
-             printf("%d found at location %d.\n", search, middle+1);
-             break;
-          }
-          else
-             last = middle - 1;
-     
+#include<stdio.h>
+#include<stdlib.h>
+
+int binarySearch(int[], int, int, int);
+
+int main(){
+    int number, data, position;
+    int *array;
+    printf("Enter number of elements: ");
+    scanf("%d",&number);
+    //Creating an array of size n
+    array = malloc(number * sizeof(int));
+    for(int i=0; i<number; i++)
+        scanf("%d",&array[i]);
+    printf("Enter number to be searched: ");
+    scanf("%d", &data);
+    //Searching for the entered element
+    position = binarySearch(array, 0, number-1, data);
+    //If position is -1 no element is found else print the position of element
+    position != -1 ? (printf("Element %d found at position %d", data, position+1)) : (printf("Element not found"));
+    return 0;
+}
+
           middle = (first + last)/2;
-       }
-       if (first > last)
-          printf("Not found! %d isn't present in the list.\n", search);
-     
-       return 0;  
     }
-
-
+    //if element is less than mid, then right = mid-1
+    if(data < array[mid])
+        position = binarySearch(array, left, mid-1, data);
+    //if element is equal to mid, then element is found and returned to main function
+    else if(data == array[mid])
+        return mid;
+    //if element is greater then mid the left = mid+1
+    else if(data > array[mid])
+        position = binarySearch(array, mid+1, right, data);
+}
