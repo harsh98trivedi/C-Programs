@@ -17,7 +17,7 @@ A Repository full of C-Programs. :slightly_smiling_face:
 
 * **[Archit Awasthi](https://archit023.github.io)** - Adding some basic + intermediate , etc.
 
-* **[Sneha Omer](https://github.com/sassyec0der)** - Adding some basic C-Programs, etc.
+* **[Sneha Omer](https://github.com/sassyecoder)** - Adding some basic C-Programs, etc.
 * **[Rohan Das](https://rohandas28.github.io)** - Adding some basic + intermediate C-Programs, etc.
 
 
